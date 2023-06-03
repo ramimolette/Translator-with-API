@@ -104,5 +104,3 @@ def error():
 window.mainloop()
 
 #TODO Rajouter plus de langues dans la liste
-
-#TODO Faire en sorte que l'on puisse choisir la langue 'résultat'
